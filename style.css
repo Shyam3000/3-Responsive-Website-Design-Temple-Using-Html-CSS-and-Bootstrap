@@ -1,0 +1,45 @@
+.backImage{
+    background-image: url('backImg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.backImage1{
+    background-image: url('backImg2.jpg');
+    background-repeat: no-repeat;
+    padding: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+.backImage2{
+    background-image: url('backImg3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}   
+.backImage3{
+    background-image: url('backImg4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}     
+.bg-heading{
+    color: chartreuse;
+    font-size: 42px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px;
+}   
+.bg-desc{
+    color: black;
+    font-size: 22px;
+    text-transform: capitalize;
+    padding: 20px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: justify;
+}   
